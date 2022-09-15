@@ -1,2 +1,2 @@
-# System_Login
-Sistema de login com painel de administrador.
+# Sistema de Login
+Sistema de login com PHP orientado a objetos e com painel de administrador.
